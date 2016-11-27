@@ -26,7 +26,7 @@ define('DB_NAME', 'crnelson_tech');
 define('DB_USER', 'crnelson_techwp');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'B!(ycleRidE123)');
+define('DB_PASSWORD', 'B!(ycleRidE123');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
